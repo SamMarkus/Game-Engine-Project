@@ -1,0 +1,78 @@
+﻿C:\Program Files\Microsoft Visual Studio\18\Community\MSBuild\Microsoft\VC\v180\Microsoft.CppBuild.targets(551,5): warning MSB8028: The intermediate directory (x64\Debug\) contains files shared from another project (assignment1_MeldinBektic.vcxproj, Assignment2.vcxproj, Assignment3.vcxproj, OpenGLSetup.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  Button.cpp
+C:\Users\sjmar\Downloads\assignment4_SamuelMarkus(1)\assignment4_SamuelMarkus\Assignment 4\OpenGLSetup\Button.hpp(52,21): error C2216: 'friend' cannot be used with 'static'
+  (compiling source file 'Button.cpp')
+  
+C:\Users\sjmar\Downloads\assignment4_SamuelMarkus(1)\assignment4_SamuelMarkus\Assignment 4\OpenGLSetup\Button.cpp(41,14): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\sjmar\Downloads\assignment4_SamuelMarkus(1)\assignment4_SamuelMarkus\Assignment 4\OpenGLSetup\Button.cpp(44,14): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\sjmar\Downloads\assignment4_SamuelMarkus(1)\assignment4_SamuelMarkus\Assignment 4\OpenGLSetup\Button.cpp(104,14): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  OpenGLSetup.cpp
+C:\Users\sjmar\Downloads\assignment4_SamuelMarkus(1)\assignment4_SamuelMarkus\Assignment 4\OpenGLSetup\Button.hpp(52,21): error C2216: 'friend' cannot be used with 'static'
+  (compiling source file 'OpenGLSetup.cpp')
+  
+C:\Users\sjmar\Downloads\assignment4_SamuelMarkus(1)\assignment4_SamuelMarkus\Assignment 4\OpenGLSetup\OpenGLSetup.cpp(53,13): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\sjmar\Downloads\assignment4_SamuelMarkus(1)\assignment4_SamuelMarkus\Assignment 4\OpenGLSetup\OpenGLSetup.cpp(53,29): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\sjmar\Downloads\assignment4_SamuelMarkus(1)\assignment4_SamuelMarkus\Assignment 4\OpenGLSetup\OpenGLSetup.cpp(115,38): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\sjmar\Downloads\assignment4_SamuelMarkus(1)\assignment4_SamuelMarkus\Assignment 4\OpenGLSetup\OpenGLSetup.cpp(115,28): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\sjmar\Downloads\assignment4_SamuelMarkus(1)\assignment4_SamuelMarkus\Assignment 4\OpenGLSetup\OpenGLSetup.cpp(115,22): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\sjmar\Downloads\assignment4_SamuelMarkus(1)\assignment4_SamuelMarkus\Assignment 4\OpenGLSetup\OpenGLSetup.cpp(116,37): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\sjmar\Downloads\assignment4_SamuelMarkus(1)\assignment4_SamuelMarkus\Assignment 4\OpenGLSetup\OpenGLSetup.cpp(116,27): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\sjmar\Downloads\assignment4_SamuelMarkus(1)\assignment4_SamuelMarkus\Assignment 4\OpenGLSetup\OpenGLSetup.cpp(116,22): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\sjmar\Downloads\assignment4_SamuelMarkus(1)\assignment4_SamuelMarkus\Assignment 4\OpenGLSetup\OpenGLSetup.cpp(117,38): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\sjmar\Downloads\assignment4_SamuelMarkus(1)\assignment4_SamuelMarkus\Assignment 4\OpenGLSetup\OpenGLSetup.cpp(117,28): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\sjmar\Downloads\assignment4_SamuelMarkus(1)\assignment4_SamuelMarkus\Assignment 4\OpenGLSetup\OpenGLSetup.cpp(117,22): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\sjmar\Downloads\assignment4_SamuelMarkus(1)\assignment4_SamuelMarkus\Assignment 4\OpenGLSetup\OpenGLSetup.cpp(118,37): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\sjmar\Downloads\assignment4_SamuelMarkus(1)\assignment4_SamuelMarkus\Assignment 4\OpenGLSetup\OpenGLSetup.cpp(118,27): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\sjmar\Downloads\assignment4_SamuelMarkus(1)\assignment4_SamuelMarkus\Assignment 4\OpenGLSetup\OpenGLSetup.cpp(118,22): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\sjmar\Downloads\assignment4_SamuelMarkus(1)\assignment4_SamuelMarkus\Assignment 4\OpenGLSetup\OpenGLSetup.cpp(134,25): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\sjmar\Downloads\assignment4_SamuelMarkus(1)\assignment4_SamuelMarkus\Assignment 4\OpenGLSetup\OpenGLSetup.cpp(188,60): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\sjmar\Downloads\assignment4_SamuelMarkus(1)\assignment4_SamuelMarkus\Assignment 4\OpenGLSetup\OpenGLSetup.cpp(208,60): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\sjmar\Downloads\assignment4_SamuelMarkus(1)\assignment4_SamuelMarkus\Assignment 4\OpenGLSetup\OpenGLSetup.cpp(226,60): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\sjmar\Downloads\assignment4_SamuelMarkus(1)\assignment4_SamuelMarkus\Assignment 4\OpenGLSetup\OpenGLSetup.cpp(243,60): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\sjmar\Downloads\assignment4_SamuelMarkus(1)\assignment4_SamuelMarkus\Assignment 4\OpenGLSetup\OpenGLSetup.cpp(260,60): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\sjmar\Downloads\assignment4_SamuelMarkus(1)\assignment4_SamuelMarkus\Assignment 4\OpenGLSetup\OpenGLSetup.cpp(329,21): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\sjmar\Downloads\assignment4_SamuelMarkus(1)\assignment4_SamuelMarkus\Assignment 4\OpenGLSetup\OpenGLSetup.cpp(373,61): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\sjmar\Downloads\assignment4_SamuelMarkus(1)\assignment4_SamuelMarkus\Assignment 4\OpenGLSetup\OpenGLSetup.cpp(436,27): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\sjmar\Downloads\assignment4_SamuelMarkus(1)\assignment4_SamuelMarkus\Assignment 4\OpenGLSetup\OpenGLSetup.cpp(438,22): warning C4305: '=': truncation from 'double' to 'GLfloat'
+C:\Users\sjmar\Downloads\assignment4_SamuelMarkus(1)\assignment4_SamuelMarkus\Assignment 4\OpenGLSetup\OpenGLSetup.cpp(439,22): warning C4305: '=': truncation from 'double' to 'GLfloat'
+C:\Users\sjmar\Downloads\assignment4_SamuelMarkus(1)\assignment4_SamuelMarkus\Assignment 4\OpenGLSetup\OpenGLSetup.cpp(444,25): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\sjmar\Downloads\assignment4_SamuelMarkus(1)\assignment4_SamuelMarkus\Assignment 4\OpenGLSetup\OpenGLSetup.cpp(445,20): warning C4305: '=': truncation from 'double' to 'GLfloat'
+C:\Users\sjmar\Downloads\assignment4_SamuelMarkus(1)\assignment4_SamuelMarkus\Assignment 4\OpenGLSetup\OpenGLSetup.cpp(446,20): warning C4305: '=': truncation from 'double' to 'GLfloat'
+C:\Users\sjmar\Downloads\assignment4_SamuelMarkus(1)\assignment4_SamuelMarkus\Assignment 4\OpenGLSetup\OpenGLSetup.cpp(450,26): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\sjmar\Downloads\assignment4_SamuelMarkus(1)\assignment4_SamuelMarkus\Assignment 4\OpenGLSetup\OpenGLSetup.cpp(451,26): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\sjmar\Downloads\assignment4_SamuelMarkus(1)\assignment4_SamuelMarkus\Assignment 4\OpenGLSetup\OpenGLSetup.cpp(452,21): warning C4305: '=': truncation from 'double' to 'GLfloat'
+C:\Users\sjmar\Downloads\assignment4_SamuelMarkus(1)\assignment4_SamuelMarkus\Assignment 4\OpenGLSetup\OpenGLSetup.cpp(453,21): warning C4305: '=': truncation from 'double' to 'GLfloat'
+C:\Users\sjmar\Downloads\assignment4_SamuelMarkus(1)\assignment4_SamuelMarkus\Assignment 4\OpenGLSetup\OpenGLSetup.cpp(457,24): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\sjmar\Downloads\assignment4_SamuelMarkus(1)\assignment4_SamuelMarkus\Assignment 4\OpenGLSetup\OpenGLSetup.cpp(458,24): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\sjmar\Downloads\assignment4_SamuelMarkus(1)\assignment4_SamuelMarkus\Assignment 4\OpenGLSetup\OpenGLSetup.cpp(459,19): warning C4305: '=': truncation from 'double' to 'GLfloat'
+C:\Users\sjmar\Downloads\assignment4_SamuelMarkus(1)\assignment4_SamuelMarkus\Assignment 4\OpenGLSetup\OpenGLSetup.cpp(460,19): warning C4305: '=': truncation from 'double' to 'GLfloat'
+C:\Users\sjmar\Downloads\assignment4_SamuelMarkus(1)\assignment4_SamuelMarkus\Assignment 4\OpenGLSetup\OpenGLSetup.cpp(561,14): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\sjmar\Downloads\assignment4_SamuelMarkus(1)\assignment4_SamuelMarkus\Assignment 4\OpenGLSetup\OpenGLSetup.cpp(564,14): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\sjmar\Downloads\assignment4_SamuelMarkus(1)\assignment4_SamuelMarkus\Assignment 4\OpenGLSetup\OpenGLSetup.cpp(757,27): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\sjmar\Downloads\assignment4_SamuelMarkus(1)\assignment4_SamuelMarkus\Assignment 4\OpenGLSetup\OpenGLSetup.cpp(757,21): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\sjmar\Downloads\assignment4_SamuelMarkus(1)\assignment4_SamuelMarkus\Assignment 4\OpenGLSetup\OpenGLSetup.cpp(761,41): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\sjmar\Downloads\assignment4_SamuelMarkus(1)\assignment4_SamuelMarkus\Assignment 4\OpenGLSetup\OpenGLSetup.cpp(761,21): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\sjmar\Downloads\assignment4_SamuelMarkus(1)\assignment4_SamuelMarkus\Assignment 4\OpenGLSetup\OpenGLSetup.cpp(764,41): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\sjmar\Downloads\assignment4_SamuelMarkus(1)\assignment4_SamuelMarkus\Assignment 4\OpenGLSetup\OpenGLSetup.cpp(764,21): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\sjmar\Downloads\assignment4_SamuelMarkus(1)\assignment4_SamuelMarkus\Assignment 4\OpenGLSetup\OpenGLSetup.cpp(767,27): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\sjmar\Downloads\assignment4_SamuelMarkus(1)\assignment4_SamuelMarkus\Assignment 4\OpenGLSetup\OpenGLSetup.cpp(767,21): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\sjmar\Downloads\assignment4_SamuelMarkus(1)\assignment4_SamuelMarkus\Assignment 4\OpenGLSetup\OpenGLSetup.cpp(770,41): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\sjmar\Downloads\assignment4_SamuelMarkus(1)\assignment4_SamuelMarkus\Assignment 4\OpenGLSetup\OpenGLSetup.cpp(770,21): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\sjmar\Downloads\assignment4_SamuelMarkus(1)\assignment4_SamuelMarkus\Assignment 4\OpenGLSetup\OpenGLSetup.cpp(773,41): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\sjmar\Downloads\assignment4_SamuelMarkus(1)\assignment4_SamuelMarkus\Assignment 4\OpenGLSetup\OpenGLSetup.cpp(773,21): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\sjmar\Downloads\assignment4_SamuelMarkus(1)\assignment4_SamuelMarkus\Assignment 4\OpenGLSetup\OpenGLSetup.cpp(791,20): warning C4244: 'argument': conversion from 'unsigned __int64' to 'float', possible loss of data
+C:\Users\sjmar\Downloads\assignment4_SamuelMarkus(1)\assignment4_SamuelMarkus\Assignment 4\OpenGLSetup\OpenGLSetup.cpp(794,15): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\sjmar\Downloads\assignment4_SamuelMarkus(1)\assignment4_SamuelMarkus\Assignment 4\OpenGLSetup\OpenGLSetup.cpp(794,6): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\sjmar\Downloads\assignment4_SamuelMarkus(1)\assignment4_SamuelMarkus\Assignment 4\OpenGLSetup\OpenGLSetup.cpp(813,15): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\sjmar\Downloads\assignment4_SamuelMarkus(1)\assignment4_SamuelMarkus\Assignment 4\OpenGLSetup\OpenGLSetup.cpp(813,6): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\sjmar\Downloads\assignment4_SamuelMarkus(1)\assignment4_SamuelMarkus\Assignment 4\OpenGLSetup\OpenGLSetup.cpp(817,7): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\sjmar\Downloads\assignment4_SamuelMarkus(1)\assignment4_SamuelMarkus\Assignment 4\OpenGLSetup\OpenGLSetup.cpp(821,6): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\sjmar\Downloads\assignment4_SamuelMarkus(1)\assignment4_SamuelMarkus\Assignment 4\OpenGLSetup\OpenGLSetup.cpp(825,7): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\sjmar\Downloads\assignment4_SamuelMarkus(1)\assignment4_SamuelMarkus\Assignment 4\OpenGLSetup\OpenGLSetup.cpp(829,6): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\sjmar\Downloads\assignment4_SamuelMarkus(1)\assignment4_SamuelMarkus\Assignment 4\OpenGLSetup\OpenGLSetup.cpp(837,7): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\sjmar\Downloads\assignment4_SamuelMarkus(1)\assignment4_SamuelMarkus\Assignment 4\OpenGLSetup\OpenGLSetup.cpp(877,15): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\sjmar\Downloads\assignment4_SamuelMarkus(1)\assignment4_SamuelMarkus\Assignment 4\OpenGLSetup\OpenGLSetup.cpp(877,6): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\sjmar\Downloads\assignment4_SamuelMarkus(1)\assignment4_SamuelMarkus\Assignment 4\OpenGLSetup\OpenGLSetup.cpp(913,50): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\sjmar\Downloads\assignment4_SamuelMarkus(1)\assignment4_SamuelMarkus\Assignment 4\OpenGLSetup\OpenGLSetup.cpp(914,40): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\sjmar\Downloads\assignment4_SamuelMarkus(1)\assignment4_SamuelMarkus\Assignment 4\OpenGLSetup\OpenGLSetup.cpp(1072,47): warning C4305: 'argument': truncation from 'double' to 'float'
+  Generating Code...

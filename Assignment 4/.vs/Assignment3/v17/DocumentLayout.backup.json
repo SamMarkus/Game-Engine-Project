@@ -1,0 +1,120 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\sjmar\\OneDrive\\Documents\\C\u002B\u002B\\Game Engine\\assignment3_SamuelMarkus\\Assignment 3\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7DFADB7E-3F5C-4F96-B03C-CD682692CA15}|OpenGLSetup\\OpenGLSetup.vcxproj|C:\\Users\\sjmar\\OneDrive\\Documents\\C\u002B\u002B\\Game Engine\\assignment3_SamuelMarkus\\Assignment 3\\OpenGLSetup\\OpenGLSetup.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{7DFADB7E-3F5C-4F96-B03C-CD682692CA15}|OpenGLSetup\\OpenGLSetup.vcxproj|solutionrelative:OpenGLSetup\\OpenGLSetup.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7DFADB7E-3F5C-4F96-B03C-CD682692CA15}|OpenGLSetup\\OpenGLSetup.vcxproj|C:\\Users\\sjmar\\OneDrive\\Documents\\C\u002B\u002B\\Game Engine\\assignment3_SamuelMarkus\\Assignment 3\\OpenGLSetup\\GameObject.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{7DFADB7E-3F5C-4F96-B03C-CD682692CA15}|OpenGLSetup\\OpenGLSetup.vcxproj|solutionrelative:OpenGLSetup\\GameObject.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7DFADB7E-3F5C-4F96-B03C-CD682692CA15}|OpenGLSetup\\OpenGLSetup.vcxproj|C:\\Users\\sjmar\\OneDrive\\Documents\\C\u002B\u002B\\Game Engine\\assignment3_SamuelMarkus\\Assignment 3\\OpenGLSetup\\GameObject.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{7DFADB7E-3F5C-4F96-B03C-CD682692CA15}|OpenGLSetup\\OpenGLSetup.vcxproj|solutionrelative:OpenGLSetup\\GameObject.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7DFADB7E-3F5C-4F96-B03C-CD682692CA15}|OpenGLSetup\\OpenGLSetup.vcxproj|C:\\Users\\sjmar\\OneDrive\\Documents\\C\u002B\u002B\\Game Engine\\assignment3_SamuelMarkus\\Assignment 3\\OpenGLSetup\\Button.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{7DFADB7E-3F5C-4F96-B03C-CD682692CA15}|OpenGLSetup\\OpenGLSetup.vcxproj|solutionrelative:OpenGLSetup\\Button.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7DFADB7E-3F5C-4F96-B03C-CD682692CA15}|OpenGLSetup\\OpenGLSetup.vcxproj|C:\\Users\\sjmar\\OneDrive\\Documents\\C\u002B\u002B\\Game Engine\\assignment3_SamuelMarkus\\Assignment 3\\OpenGLSetup\\Button.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{7DFADB7E-3F5C-4F96-B03C-CD682692CA15}|OpenGLSetup\\OpenGLSetup.vcxproj|solutionrelative:OpenGLSetup\\Button.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7DFADB7E-3F5C-4F96-B03C-CD682692CA15}|OpenGLSetup\\OpenGLSetup.vcxproj|C:\\Users\\sjmar\\OneDrive\\Documents\\C\u002B\u002B\\Game Engine\\assignment3_SamuelMarkus\\Assignment 3\\OpenGLSetup\\TextInput.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{7DFADB7E-3F5C-4F96-B03C-CD682692CA15}|OpenGLSetup\\OpenGLSetup.vcxproj|solutionrelative:OpenGLSetup\\TextInput.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "TextInput.hpp",
+              "DocumentMoniker": "C:\\Users\\sjmar\\OneDrive\\Documents\\C\u002B\u002B\\Game Engine\\assignment3_SamuelMarkus\\Assignment 3\\OpenGLSetup\\TextInput.hpp",
+              "RelativeDocumentMoniker": "OpenGLSetup\\TextInput.hpp",
+              "ToolTip": "C:\\Users\\sjmar\\OneDrive\\Documents\\C\u002B\u002B\\Game Engine\\assignment3_SamuelMarkus\\Assignment 3\\OpenGLSetup\\TextInput.hpp",
+              "RelativeToolTip": "OpenGLSetup\\TextInput.hpp",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAEUAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-04-07T18:17:24.26Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "GameObject.cpp",
+              "DocumentMoniker": "C:\\Users\\sjmar\\OneDrive\\Documents\\C\u002B\u002B\\Game Engine\\assignment3_SamuelMarkus\\Assignment 3\\OpenGLSetup\\GameObject.cpp",
+              "RelativeDocumentMoniker": "OpenGLSetup\\GameObject.cpp",
+              "ToolTip": "C:\\Users\\sjmar\\OneDrive\\Documents\\C\u002B\u002B\\Game Engine\\assignment3_SamuelMarkus\\Assignment 3\\OpenGLSetup\\GameObject.cpp",
+              "RelativeToolTip": "OpenGLSetup\\GameObject.cpp",
+              "ViewState": "AgIAAGAAAAAAAAAAAAAAAG4AAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-04-11T17:41:34.464Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "GameObject.hpp",
+              "DocumentMoniker": "C:\\Users\\sjmar\\OneDrive\\Documents\\C\u002B\u002B\\Game Engine\\assignment3_SamuelMarkus\\Assignment 3\\OpenGLSetup\\GameObject.hpp",
+              "RelativeDocumentMoniker": "OpenGLSetup\\GameObject.hpp",
+              "ToolTip": "C:\\Users\\sjmar\\OneDrive\\Documents\\C\u002B\u002B\\Game Engine\\assignment3_SamuelMarkus\\Assignment 3\\OpenGLSetup\\GameObject.hpp",
+              "RelativeToolTip": "OpenGLSetup\\GameObject.hpp",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAACMAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-04-10T01:47:53.679Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Button.cpp",
+              "DocumentMoniker": "C:\\Users\\sjmar\\OneDrive\\Documents\\C\u002B\u002B\\Game Engine\\assignment3_SamuelMarkus\\Assignment 3\\OpenGLSetup\\Button.cpp",
+              "RelativeDocumentMoniker": "OpenGLSetup\\Button.cpp",
+              "ToolTip": "C:\\Users\\sjmar\\OneDrive\\Documents\\C\u002B\u002B\\Game Engine\\assignment3_SamuelMarkus\\Assignment 3\\OpenGLSetup\\Button.cpp",
+              "RelativeToolTip": "OpenGLSetup\\Button.cpp",
+              "ViewState": "AgIAADMAAAAAAAAAAAAAAIoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-04-07T19:02:36.101Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Button.hpp",
+              "DocumentMoniker": "C:\\Users\\sjmar\\OneDrive\\Documents\\C\u002B\u002B\\Game Engine\\assignment3_SamuelMarkus\\Assignment 3\\OpenGLSetup\\Button.hpp",
+              "RelativeDocumentMoniker": "OpenGLSetup\\Button.hpp",
+              "ToolTip": "C:\\Users\\sjmar\\OneDrive\\Documents\\C\u002B\u002B\\Game Engine\\assignment3_SamuelMarkus\\Assignment 3\\OpenGLSetup\\Button.hpp",
+              "RelativeToolTip": "OpenGLSetup\\Button.hpp",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAAADAAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-04-07T17:17:16.798Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "OpenGLSetup.cpp",
+              "DocumentMoniker": "C:\\Users\\sjmar\\OneDrive\\Documents\\C\u002B\u002B\\Game Engine\\assignment3_SamuelMarkus\\Assignment 3\\OpenGLSetup\\OpenGLSetup.cpp",
+              "RelativeDocumentMoniker": "OpenGLSetup\\OpenGLSetup.cpp",
+              "ToolTip": "C:\\Users\\sjmar\\OneDrive\\Documents\\C\u002B\u002B\\Game Engine\\assignment3_SamuelMarkus\\Assignment 3\\OpenGLSetup\\OpenGLSetup.cpp",
+              "RelativeToolTip": "OpenGLSetup\\OpenGLSetup.cpp",
+              "ViewState": "AgIAAPgCAAAAAAAAAAAAAAMDAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-04-07T16:45:23.756Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

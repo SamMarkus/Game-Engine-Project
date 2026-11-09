@@ -1,0 +1,69 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\sjmar\\OneDrive\\Documents\\C\u002B\u002B\\Game Engine\\Assignment 2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7DFADB7E-3F5C-4F96-B03C-CD682692CA15}|OpenGLSetup\\OpenGLSetup.vcxproj|C:\\Users\\sjmar\\OneDrive\\Documents\\C\u002B\u002B\\Game Engine\\Assignment 2\\OpenGLSetup\\OpenGLSetup.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{7DFADB7E-3F5C-4F96-B03C-CD682692CA15}|OpenGLSetup\\OpenGLSetup.vcxproj|solutionrelative:OpenGLSetup\\OpenGLSetup.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7DFADB7E-3F5C-4F96-B03C-CD682692CA15}|OpenGLSetup\\OpenGLSetup.vcxproj|C:\\Users\\sjmar\\OneDrive\\Documents\\C\u002B\u002B\\Game Engine\\Assignment 2\\OpenGLSetup\\GameObject.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{7DFADB7E-3F5C-4F96-B03C-CD682692CA15}|OpenGLSetup\\OpenGLSetup.vcxproj|solutionrelative:OpenGLSetup\\GameObject.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7DFADB7E-3F5C-4F96-B03C-CD682692CA15}|OpenGLSetup\\OpenGLSetup.vcxproj|C:\\Users\\sjmar\\OneDrive\\Documents\\C\u002B\u002B\\Game Engine\\Assignment 2\\OpenGLSetup\\GameObject.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{7DFADB7E-3F5C-4F96-B03C-CD682692CA15}|OpenGLSetup\\OpenGLSetup.vcxproj|solutionrelative:OpenGLSetup\\GameObject.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "GameObject.cpp",
+              "DocumentMoniker": "C:\\Users\\sjmar\\OneDrive\\Documents\\C\u002B\u002B\\Game Engine\\Assignment 2\\OpenGLSetup\\GameObject.cpp",
+              "RelativeDocumentMoniker": "OpenGLSetup\\GameObject.cpp",
+              "ToolTip": "C:\\Users\\sjmar\\OneDrive\\Documents\\C\u002B\u002B\\Game Engine\\Assignment 2\\OpenGLSetup\\GameObject.cpp",
+              "RelativeToolTip": "OpenGLSetup\\GameObject.cpp",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAAB8AAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-02-23T19:32:04.927Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "GameObject.hpp",
+              "DocumentMoniker": "C:\\Users\\sjmar\\OneDrive\\Documents\\C\u002B\u002B\\Game Engine\\Assignment 2\\OpenGLSetup\\GameObject.hpp",
+              "RelativeDocumentMoniker": "OpenGLSetup\\GameObject.hpp",
+              "ToolTip": "C:\\Users\\sjmar\\OneDrive\\Documents\\C\u002B\u002B\\Game Engine\\Assignment 2\\OpenGLSetup\\GameObject.hpp",
+              "RelativeToolTip": "OpenGLSetup\\GameObject.hpp",
+              "ViewState": "AgIAABUAAAAAAAAAAAAUwB4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-02-23T19:31:38.278Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "OpenGLSetup.cpp",
+              "DocumentMoniker": "C:\\Users\\sjmar\\OneDrive\\Documents\\C\u002B\u002B\\Game Engine\\Assignment 2\\OpenGLSetup\\OpenGLSetup.cpp",
+              "RelativeDocumentMoniker": "OpenGLSetup\\OpenGLSetup.cpp",
+              "ToolTip": "C:\\Users\\sjmar\\OneDrive\\Documents\\C\u002B\u002B\\Game Engine\\Assignment 2\\OpenGLSetup\\OpenGLSetup.cpp",
+              "RelativeToolTip": "OpenGLSetup\\OpenGLSetup.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-02-23T19:30:03.623Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
